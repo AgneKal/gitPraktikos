@@ -1,1 +1,1 @@
-console.log("⏲️");
+console.log("🦄");
